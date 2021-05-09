@@ -1,5 +1,5 @@
 ---
-title: 'hotel.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 'hotel.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "hotel.com is under construction."
 ---
 
